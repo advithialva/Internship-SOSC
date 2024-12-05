@@ -1,4 +1,4 @@
-# Mini-Projects
+# Internship-SOSC
 
 This repository contains the mini-projects I completed during the internship conducted by SOSC (Sahyadri Open Source Community).
 
